@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios compartidos
+
+This log tracks the cryptographic history and versioning for the song **Labios compartidos** (labios-compartidos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:26:22.452037 | `v1` | `c98136ae8fc1ebd960c23757dd3312e65f68529cc1f9a824b1e65a22a490ce61` | `bbf92e078adc05847df979ecafc424591163d60c8153845787fa1b7400b2bf76` | `2026-06-15_labios-compartidos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

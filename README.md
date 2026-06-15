@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-compartidos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios compartidos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-compartidos/) |
+| **Get License** | [Obtain a Music License for Labios compartidos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-compartidos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c98136ae8fc1ebd960c23757dd3312e65f68529cc1f9a824b1e65a22a490ce61` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
