@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero probar esos labios que me tienen de rehén,
+> en la disco o en la calle, mami, sabes que me va bien.
+> Tu mirada me provoca y esta noche es para los dos,
+> ven y dame ese secreto que guardamos con tu voz.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
